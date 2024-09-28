@@ -14,18 +14,23 @@ https://www.kaggle.com/datasets/gpiosenka/yikes-spiders-15-species
 Here you may find results of model training:
 
 ![losses.jpg](project_images%2Flosses.jpg)
+
 *For common losses:*
 
 ![output1.jpg](project_images%2Foutput1.jpg)
+
 *For 1st output accuracy (spider classification)*
 
 ![output1.jpg](project_images%2Foutput2.jpg)
+
 *For 2nd output accuracy (venomous level classification)*
 
 ![matrix1.jpg](project_images%2Fmatrix1.jpg)
+
 *Confusion matrix for spider classification*
 
 ![matrix1.jpg](project_images%2Fmatrix2.jpg)
+
 *Confusion matrix for spider venomous leve classification*
 
 During the training process, the model encountered overfitting and here are the best results that I was able to obtain. If you have ideas for improving performance, I'm always happy to listen.
